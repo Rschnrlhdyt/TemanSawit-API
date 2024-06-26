@@ -1,11 +1,6 @@
-# Cloud Computing Path
+# TemanSawit API
 
-Creating RESTful APIs and deploying to Google Cloud Platform using [Google Cloud Run](https//cloud.google.com/run) and [Google Cloud Build](https//cloud.google.com/build) for communication between Machine Learning Model and Mobile Development. Creating database in [Google Compute Engine](https://cloud.google.com/compute) and using [Google Cloud Storage](https//cloud.google.com/storage) to store images.
-
-The CC division consists of:
-
-- Muh. Falach Achsan Yusuf (C300DSX2627)
-- Rischa Nurul Hidayati (C177DSY2224)
+This project is the final project of the Bangkit Academy 2023 Batch 1. I'm creating RESTful APIs and deploying them to Google Cloud Platform using  [Google Cloud Run](https//cloud.google.com/run) and [Google Cloud Build](https//cloud.google.com/build) for communication between the Machine Learning Model and Mobile Development, creating a database in [Google Compute Engine](https://cloud.google.com/compute), and using [Google Cloud Storage](https//cloud.google.com/storage) to store images.
 
 ## TemanSawit-API
 
@@ -26,7 +21,7 @@ Overall, TemanSawit-API provides a comprehensive and efficient solution for mana
 
 1. Clone this repository
 ```bash
-git clone https://github.com/C23-PS190-TemanSawit/TemanSawit-API.git
+git clone https://github.com/Rschnrlhdyt/TemanSawit-API.git
 ```
 
 2. Install all dependecies in package.json use npm i
